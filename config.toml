@@ -1,0 +1,4 @@
+baseURL = 'https://charao.dev/'
+languageCode = 'en-us'
+title = 'charao.dev'
+theme = "LoveIt"
