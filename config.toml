@@ -26,7 +26,7 @@ copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_
   # path = "images/rick.svg"
   # alt = "Your example logo alt text"
   # Subtitle for home
-  homeSubtitle = "Softare Engineer"
+  homeSubtitle = "Software Engineer"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -36,7 +36,7 @@ copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_
 
   # Metadata mostly used in document's head
   description = "My new homepage or blog"
-  keywords = "thiago, charao, developer, blog"
+  keywords = "thiago, charao, developer, blog, software, engineering"
   images = [""]
 
 [taxonomies]
@@ -46,9 +46,9 @@ copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_
 
 # And you can even create generic menu
 [[menu.main]]
-  identifier = "blog"
-  name       = "Blog"
-  url        = "/posts"
+#  identifier = "blog"
+#  name       = "Blog"
+#  url        = "/posts"
 
 [[params.social]]
 name = "linkedin"
